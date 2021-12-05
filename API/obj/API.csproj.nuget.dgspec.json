@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\DatingApp\\API\\API.csproj": {}
+    "D:\\Projetos\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\DatingApp\\API\\API.csproj": {
+    "D:\\Projetos\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\Projetos\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Projetos\\DatingApp\\API\\API.csproj",
+        "projectPath": "D:\\Projetos\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\xlanz\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\DatingApp\\API\\obj\\",
+        "outputPath": "D:\\Projetos\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xlanz\\AppData\\Roaming\\NuGet\\NuGet.Config"
